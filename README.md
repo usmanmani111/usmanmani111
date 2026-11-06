@@ -21,13 +21,15 @@ Experience
 Penetration Testing Intern — Secure Dev Labs
 Completed an internship in Penetration Testing at Secure Dev Labs.
 Projects
-Planned projects — descriptions and repositories will be added as they are developed.
 Project
-Status
+Description
+Tech
 Basic Port Scanner
-Planned
+A small, safe port scanner that checks which common ports are open on your own computer, using a TCP connect scan. Refuses any other host.
+Python
 Password Strength Checker
-Planned
+An offline checker that scores a test password from 0 to 5 and explains how to make it stronger. Nothing is sent, stored, or logged.
+Python
 Currently Learning
 MCP concepts and AI security
 Exploring system vulnerabilities
